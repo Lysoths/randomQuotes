@@ -1,1 +1,1 @@
-# randomQuotes
+https://lysoths.github.io/randomQuotes/
